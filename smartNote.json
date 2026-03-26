@@ -1,0 +1,10 @@
+{
+    "sample note 1": {
+        "tags": ["hello", "hi"], 
+        "text": "this is my first note" 
+    },
+    "sample note 2": { 
+        "tags": ["ok", "hi"], 
+        "text": "this is my second note" 
+    }
+}
